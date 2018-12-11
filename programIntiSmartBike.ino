@@ -1,10 +1,4 @@
 
-BERUBAAHHHHHH
-
-Berabuhhh
-
-
-WKWKWKWKWKKWKWK
 #include <Wire.h>
 //#include <Arduino.h>
 #include <ESP8266WiFi.h>
